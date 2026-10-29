@@ -8,7 +8,7 @@ A 256 bit key, authenticated stream cipher built around a simple visual transfor
 
 ## 1. The two-row trace
 
-The transform was devised independently by the author while experimenting with data compression.
+The transform was devised independently by me while experimenting with data compression.
 
 Write a row of random bits, and beneath it the same row inverted. For each data bit, step to the next column and land on whichever row holds that bit. The path traced across the two rows is the output, reading the top row as 0 and the bottom row as 1.
 
