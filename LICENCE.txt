@@ -1,4 +1,4 @@
-JAVAMATHLIB SOFTWARE LICENCE AGREEMENT
+ScooCipher SOFTWARE LICENCE AGREEMENT
 Version 2.1 — 2026
 ================================================================================
 
@@ -114,7 +114,7 @@ PART 3 — ACADEMIC AND RESEARCH USE
 3.2  Publication of research that makes use of this Software should include
      the following citation where appropriate:
        Gianota, M. JavaMathLib. (2024-2026).
-       https://github.com/RDMachinery/MatrixMaths
+       https://github.com/RDMachinery/ScooCipher
 
 ================================================================================
 PART 4 — DISCLAIMER OF WARRANTIES
