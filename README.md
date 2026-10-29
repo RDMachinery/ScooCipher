@@ -1,6 +1,6 @@
 # TraceCipher
 
-An educational authenticated stream cipher built around a simple visual transform: the **two-row trace**.
+A 256 bit key, authenticated stream cipher built around a simple visual transform: the **two-row trace**.
 
 > **Not for real secrets.** The keystream generator is a new, unanalysed ARX design. It passes basic statistical checks, but that says nothing about resistance to serious cryptanalysis. For real use, choose ChaCha20-Poly1305 or AES-GCM.
 
