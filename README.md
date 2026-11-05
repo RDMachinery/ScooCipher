@@ -1,4 +1,4 @@
-# TraceCipher
+# ScooCipher
 
 A 256 bit key, authenticated stream cipher built around a simple visual transform: the **two-row trace**.
 
